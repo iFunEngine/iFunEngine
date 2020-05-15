@@ -1,6 +1,6 @@
 # 아이펀 엔진 공식 Q&A 게시판
 
-위쪽의 [issues](https://github.com/iFunEngine/iFunEngine/issues) 탭을 눌러서 질문이나 문제점을 올려주세요.
+위쪽의 [issues](https://github.com/iFunEngine/iFunEngine/issues?q=is%3Aissue) 탭을 눌러서 질문이나 문제점을 올려주세요.
 
 ## 기타 문서
 
